@@ -22,6 +22,7 @@ https://afdian.com/a/manong
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
 
+ 
 ### 如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
 * 用你自己的安卓签名文件替换你克隆的仓库中的`keystore/demokeystore.jks`
@@ -34,7 +35,7 @@ https://afdian.com/a/manong
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip` 
 
-### If your are NOT familiar with Android development:
+### If your are NOT familiar with Android development:   
 You need to get the secerts of the key store file to sign your application. For security reason, all of the passwords are NOT in this repoitory.
 **It's really recommanded that you can sign your apk file with your own key store file after learning some Android knowledge.**
 Please follow these steps:
